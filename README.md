@@ -32,3 +32,7 @@ num_likes / num_loves / num_wows / num_hahas / num_sads / num_angrys: Breakdown 
 status_published: Date and time the post was published
 
 video_id / status_id / message: Internal identifiers related to each post (usually dropped or summarized during analysis)
+
+
+
+### 3.Data Preparation
