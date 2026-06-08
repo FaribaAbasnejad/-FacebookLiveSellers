@@ -61,3 +61,6 @@ In addition to the quantitative evaluation, we also conducted a qualitative anal
 
 Based on both quantitative and qualitative assessments, Agglomerative Clustering was selected as the best-performing model for this project.
 
+
+### 6.Deployment
+
