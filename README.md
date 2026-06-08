@@ -42,3 +42,22 @@ video_id / status_id / message: Internal identifiers related to each post (usual
 
 
 ### 5.Evaluation
+
+In the evaluation phase of this project, we assessed the quality of the clustering results using the Silhouette Score metric. This metric quantifies how well each data point fits within its assigned cluster compared to other clusters. A higher Silhouette Score indicates better-defined clusters.
+
+We applied and compared the following clustering algorithms:
+
+KMeans: Silhouette Score = 0.37
+
+Gaussian Mixture Model (GMM): Silhouette Score = 0.23
+
+Agglomerative Clustering: Silhouette Score = 0.54
+
+DBSCAN: Silhouette Score = 0.22
+
+Among all models, Agglomerative Clustering achieved the highest Silhouette Score of 0.54, suggesting that it produced the most cohesive and well-separated clusters.
+
+In addition to the quantitative evaluation, we also conducted a qualitative analysis by examining the mean values of key features within each cluster. The clusters revealed distinct behavioral patterns in terms of reactions, comments, and shares, confirming that the clustering results are meaningful and interpretable.
+
+Based on both quantitative and qualitative assessments, Agglomerative Clustering was selected as the best-performing model for this project.
+
