@@ -21,3 +21,11 @@ The goal of this project is to build a machine learning model that can support h
 1 → Presence of heart disease (Unhealthy)
 
 This binary classification task helps in clinical decision-making, resource allocation, and prioritizing patients for further tests or treatment. 
+
+
+
+### 2.Data Understanding
+
+Understand data collection process :
+
+The dataset used in this project was obtained from the UCI Machine Learning Repository. It combines data from four medical centers, with the Cleveland dataset being the most used due to its completeness and consistency. The data was collected during clinical assessments of patients with suspected heart disease, and diagnoses were confirmed via angiography. Personally identifiable information was removed, and 14 key medical attributes were selected for analysis.
