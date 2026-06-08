@@ -36,3 +36,6 @@ video_id / status_id / message: Internal identifiers related to each post (usual
 
 
 ### 3.Data Preparation
+
+
+### 4.Modeling
